@@ -1,0 +1,10 @@
+# pycharm
+.idea/
+
+# python
+__pycache__/
+/venv/
+
+# mypy
+/.dmypy.json
+/.mypy_cache
